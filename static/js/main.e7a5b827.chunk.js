@@ -1,0 +1,2 @@
+(this["webpackJsonpzesty-project"]=this["webpackJsonpzesty-project"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),s=c(3),r=c.n(s),o=(c(8),c(0));function i(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Hello CodeSandbox"}),Object(o.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var d=document.getElementById("root");r.a.render(Object(o.jsx)(n.StrictMode,{children:Object(o.jsx)(i,{})}),d)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.e7a5b827.chunk.js.map
